@@ -1,0 +1,12 @@
+*.gem
+.bundle
+.rvmrc
+Gemfile.lock
+README.html
+coverage/
+examples/
+pkg/*
+tmp/*
+
+# MAC OS
+.DS_Store
